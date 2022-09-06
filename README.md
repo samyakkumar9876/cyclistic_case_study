@@ -27,6 +27,6 @@ How can Cyclistic use digital media to influence casual riders to become members
 
 Link to the presentation - https://bit.ly/cyclistic_case_study_samyakkumar
 
-Link to the data visualisaion - 
+Link to the data visualisaion - https://bit.ly/cyclisticdata_visualization
 
 Link to data source from Jan 2021 to Dec 2021 - https://divvy-tripdata.s3.amazonaws.com/index.html
